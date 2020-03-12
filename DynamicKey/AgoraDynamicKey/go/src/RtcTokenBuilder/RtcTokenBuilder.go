@@ -1,8 +1,9 @@
 package rtctokenbuilder
 
 import (
-	"accesstoken"
 	"fmt"
+
+	accesstoken "github.com/chihkaiyu/Tools/DynamicKey/AgoraDynamicKey/go/src/AccessToken"
 )
 
 // Role Type
