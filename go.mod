@@ -1,3 +1,3 @@
-module github.com/17media/Tools/DynamicKey/AgoraDynamicKey/go/src
+module github.com/17media/Tools
 
 go 1.13
